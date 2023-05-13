@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Ayu.140041@gmail.com**
 
+My linkdin- https://www.linkedin.com/in/ayush-kumar-pandey-b1966a193
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/ayush-pandey14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ayush-pandey14" height="30" width="40" /></a>
