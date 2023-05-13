@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Ayu.140041@gmail.com**
 
-- My linkdin- ayush-kumar-pandey-b1966a193
+- My linkdin-ayush-kumar-pandey-b1966a193
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
