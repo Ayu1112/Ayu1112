@@ -1,22 +1,14 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Ayush Kumar Pandey
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
 
-
-
-<!----------------------------------- About Section ------------------------------------>
-
-<h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-</h3>
-
-<br>
-
-
+<h1 align="center">Hi 👋, I'm Ayush Kumar Pandey</h1>
+<h2><p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+</p>
+ <br/></h2>
+ 
+ <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="https://magnificent-swan-5effb6.netlify.app/">
+  <br />  <br />  
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="vivekgoswami-portfolio.netlify.com/" /></h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -32,8 +24,7 @@
 
 
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
+<img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/>
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -51,21 +42,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-<br>
-
-
-
-<!----------------------------------- Project Section ------------------------------------>
-
-<h2><i>My top projects</i></h2>
-
-<br>
-
-
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
@@ -74,18 +53,13 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ayush-kumar-pandey-b1966a193/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ayush-kumar-pandey-b1966a193/" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="inkedin.com/in/ayush-kumar-pandey-b1966a193/" />
     </a>
-    <a href="https://github.com/Ayu1112/Ayu1112.github.io">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ayu1112ayu1112.github.io" />
-    </a>
-    <a title="mail.akpandey14@gmail.com" href="mailto:mail.akpandey14@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail.akpandey14@gmail.com" />
-    </a>
+    <a href="https://magnificent-swan-5effb6.netlify.app">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="vivekgoswami-portfolio.netlify.com/" />
+  
 </p>
 <br>
-
-
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
@@ -98,10 +72,3 @@
 <br>
 
 
-
-<!----------------------------------- Top Repository Section ------------------------------------>
-
-<h2><i>Top Repositories</i></h2>
-
-
-    
