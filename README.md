@@ -7,7 +7,7 @@
 Passionate about web development
 </h2>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Ayush+Kumar+Pandey.;I+am+a+Full-stack+Web+developer.;Curious+to+learn+new+web+technologies+!" alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Ayush+Kumar+Pandey.;I+am+a+Full-stack+Web+developer.;Curious+to+learn+new+web+technologies+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
